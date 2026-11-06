@@ -78,7 +78,7 @@ Sou apaixonado por tecnologia, programação e inovação. Meu objetivo é evolu
 <div align="left">
   <img
     width="98%"
-    src="https://github-readme-activity-graph-plum-phi.vercel.app/graph?username=0xKxbyte&amp;theme=github-compact&amp;hide_border=true"
+    src="https://github-readme-activity-graph-plum-phi.vercel.app/graph?username=joaoshira&amp;theme=github-compact&amp;hide_border=true"
     alt="GitHub Activity Graph"
   />
 </div>
