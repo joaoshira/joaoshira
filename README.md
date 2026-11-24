@@ -44,6 +44,10 @@ Sou apaixonado por tecnologia, programação e inovação. Meu objetivo é evolu
 
 <img src="https://skillicons.dev/icons?i=linux,redhat,docker,vercel,aws,firebase,git,github,debian,arch,windows&theme=dark&perline=8"/>
 
+**Inteligencia Artificial**
+
+<img src="https://skillicons.dev/icons?i=claude,claude code ai, codex, chatgpt&theme=dark&perline=8"/>
+
 ---
 
 ## Formação
