@@ -46,7 +46,8 @@ Sou apaixonado por tecnologia, programação e inovação. Meu objetivo é evolu
 
 **Inteligencia Artificial**
 
-<img src="https://skillicons.dev/icons?i=claude,codex&theme=dark&perline=8"/>
+<img src="https://img.shields.io/badge/Claude-1a1a2e?style=for-the-badge"/> <img src="https://img.shields.io/badge/Codex-1a1a2e?style=for-the-badge"/> <img src="https://img.shields.io/badge/ChatGPT-1a1a2e?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Claude Code AI-1a1a2e?style=for-the-badge"/>
 
 ---
 
