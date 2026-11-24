@@ -1,6 +1,6 @@
-<img width="100%" src="banner.png" alt="0xKxbyte"/>
+<img width="100%" src="banner.png" alt="Joao-shira"/>
 
-# 0xKxbyte
+# João Shira
 
 Programador Web Full Stack, Engenheiro de Software e Cybersecurity.
 Minas Gerais, Brasil. Remoto.
@@ -18,7 +18,7 @@ Objetivo: trabalhar no Itaú.
 
 <br>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-1a1a2e?style=for-the-badge&logo=linktree&logoColor=white)](https://portfolio-0xkxbyte.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-1a1a2e?style=for-the-badge&logo=linktree&logoColor=white)](https://portfolio-joaoshira.vercel.app/)
 
 ---
 
@@ -88,7 +88,7 @@ Sou apaixonado por tecnologia, programação e inovação. Meu objetivo é evolu
 
 ## Contato
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-1a1a2e?style=for-the-badge&logo=linktree&logoColor=white)](https://portfolio-0xkxbyte.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-1a1a2e?style=for-the-badge&logo=linktree&logoColor=white)](https://portfolio-joaoshira.vercel.app/)
 
 <img width="200" src="Linux.gif"/>
 
