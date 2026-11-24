@@ -42,7 +42,7 @@ Sou apaixonado por tecnologia, programação e inovação. Meu objetivo é evolu
 
 **Cloud**
 
-<img src="https://skillicons.dev/icons?i=linux,redhat,docker,vercel,aws,firebase,git,github,stripe,debian,arch,windows&theme=dark&perline=8"/>
+<img src="https://skillicons.dev/icons?i=linux,redhat,docker,vercel,aws,firebase,git,github,debian,arch,windows&theme=dark&perline=8"/>
 
 ---
 
